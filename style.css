@@ -1,0 +1,47 @@
+h2,h1{
+  color:green;
+ }
+
+ #he1{
+    background-color: aqua;
+ }
+ #he2{
+    background-color: aquamarine ;
+ }
+ #he3{
+    background-color: azure;
+ }
+ #he4{
+    background-color: bisque;
+ }
+ #he5{
+    background-color: blanchedalmond;
+ }
+ #he6{
+   background-color: blueviolet;
+ }
+ #he7{
+    background-color: brown;
+ }
+ #he8{
+    background-color: chocolate;
+ }
+ #he9{
+    background-color: deeppink;
+ }
+ #pa1,#pa2,#pa3{
+    background-color: cornflowerblue;
+ }
+ #pa1{
+    color: crimson;
+ }
+ #pa2{
+    color: cyan;
+ }
+ #pa3{
+    color: darkgoldenrod;
+ }
+ .list{
+    color: indianred;
+    background-color: lightblue;
+ }
